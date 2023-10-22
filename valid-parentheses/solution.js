@@ -11,5 +11,3 @@ var isValid = function (s) {
         else {return true}
     }
 };
-
-console.log(isValid('()'))
